@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @skaaa3
-- 👀 I’m interested in ... creating more projects. 
-- 🌱 I’m currently learning ... HTML, CSS, and Python!
-- 💞️ I’m looking to collaborate on ... N/A
-- 📫 How to reach me ... N/A
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: N/A
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... 
+- 😄 Pronouns: 
+- ⚡ Fun fact: 
 
 <!---
 skaaa3/skaaa3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
